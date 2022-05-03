@@ -1,1 +1,6 @@
 A great tool for building a bad USB and targeting Python targets with usable scripts
+
+Download: git clone https://github.com/the-h3x/H3x-tool.git
+
+using : python3 main.py
+
